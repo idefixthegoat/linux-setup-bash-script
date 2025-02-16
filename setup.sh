@@ -50,7 +50,7 @@ add_flathub
 APPS=(
   "com.brave.Browser"
   "md.obsidian.Obsidian"
-  "org.handbrake.ghb"
+  "fr.handbrake.ghb"
   "com.alpaca.Alpaca"    # Verify this ID if installation fails.
   "com.makemkv.MakeMKV"
   "org.videolan.VLC"
