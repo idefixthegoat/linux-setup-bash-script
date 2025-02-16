@@ -63,4 +63,4 @@ for app in "${APPS[@]}"; do
   sudo flatpak install -y flathub "$app"
 done
 
-echo "All operations completed successfully!"
+sudo reboot
