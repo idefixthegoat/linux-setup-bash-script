@@ -55,12 +55,10 @@ APPS=(
   "com.makemkv.MakeMKV"
   "org.videolan.VLC"
   "org.mozilla.Thunderbird"
-  "io.github.bytezz.IPLookup"
-  "fr.romainvigier.MetadataCleaner"
-  "com.github.huluti.Curtail"
   "com.discordapp.Discord"
   "net.nokyan.Resources"
   "com.github.louis77.tuner"
+  "org.libreoffice.LibreOffice"
 )
 
 echo "Starting installation of applications from Flathub..."
