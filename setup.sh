@@ -51,7 +51,7 @@ APPS=(
   "com.brave.Browser"
   "md.obsidian.Obsidian"
   "fr.handbrake.ghb"
-  "com.alpaca.Alpaca"    # Verify this ID if installation fails.
+  "com.jeffser.Alpaca"    # Verify this ID if installation fails.
   "com.makemkv.MakeMKV"
   "org.videolan.VLC"
   "org.mozilla.Thunderbird"
